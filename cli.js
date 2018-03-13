@@ -13,7 +13,7 @@ figlet('gauravity', (err, data) => {
 })
 
 program
-  .version('1.0.0')
+  .version('1.0.1')
   .description('Optional params to know more about me.')
 
 program
