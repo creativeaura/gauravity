@@ -1,0 +1,30 @@
+{
+    "name": "Gaurav Jassal",
+    "about": [
+        "My specialty lies in the crafting highly interactive experiences for the web and mobile platform. I provide progressive art direction, design and programming services for design firm, advertising agencies and business looking to create memorable experiences that create and reinforce brand recognition.",
+        "Ideas are my bread n butter. I mold and shape them into living breathing interactive experiences and captivate. I believe that great interactive ideas drive on the tension between design and code."
+    ],
+    "priorities" : [
+      "Family", "Work"
+    ],
+    "work" : [
+      "@affinioninternational"
+    ],
+    "web": "https://gaurav.jassal.me",
+    "twitter": "@igauravity",
+    "instagram": "@funtooshh",
+    "reddit": "@gauravity_",
+    "tech" : [
+      "HTML", "CSS", "JavaScript",
+      "React", "Vue", "Kotlin",
+      "Swift", "React Native",
+      "Lua", "Python", "Django",
+      "Golang"
+    ],
+    "titles" : [
+      "Full-Stack Developer"
+    ],
+    "hobbies" : [
+        "/i/hacker/traveller/developer"
+      ]
+  }
