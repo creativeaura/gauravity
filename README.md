@@ -1,1 +1,3 @@
-# Information about Gaurav Jassal
+# Gaurav Jassal's Business Card
+
+$ npx gauravity

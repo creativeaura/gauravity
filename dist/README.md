@@ -1,1 +1,0 @@
-# Information about Gaurav Jassal
