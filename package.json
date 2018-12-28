@@ -1,26 +1,26 @@
 {
-  "name": "elijahmanor",
-  "version": "1.7.0",
-  "description": "Contact Information about Elijah Manor",
+  "name": "gauravity",
+  "version": "1.0.1",
+  "description": "Contact Information about Gaurav Jassal",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
   "main": "index.js",
   "bin": {
-    "elijahmanor": "./index.js"
+    "gauravity": "./index.js"
   },
   "scripts": {
     "postinstall": "node ./index.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/elijahmanor/elijahmanor"
+    "url": "https://github.com/creativeaura/gauravity"
   },
   "keywords": [
     "person",
     "contact"
   ],
-  "author": "Elijah Manor",
+  "author": "Gaurav Jassal",
   "license": "MIT",
   "dependencies": {
     "boxen": "^2.1.0",
