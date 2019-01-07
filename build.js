@@ -24,7 +24,7 @@ let output = `
 ∙ React and React Native Specialist
 
   https://${chalk.blue("twitter")}.com/${chalk.yellow("igauravity")}
-              https://${chalk.yellow("https://gaurav.jassal")}.me
+              https://${chalk.yellow("gaurav.jassal")}.me
    https://${chalk.blue("github")}.com/${chalk.yellow("creativeaura")} 
  https://${chalk.blue("linkedin")}.com/${chalk.yellow("gjassal")}
                       ${chalk.yellow("gauravjassal")}@${chalk.blue("gmail")}.com
