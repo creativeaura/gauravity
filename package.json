@@ -1,6 +1,6 @@
 {
   "name": "gauravity",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Contact Information about Gaurav Jassal",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
@@ -9,8 +9,12 @@
   "bin": {
     "gauravity": "./index.js"
   },
+  "files": [
+    "bin/output"
+  ],
   "scripts": {
-    "postinstall": "node ./index.js"
+    "postinstall": "node ./index.js",
+    "build": "node ./build.js"
   },
   "repository": {
     "type": "git",
