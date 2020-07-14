@@ -20,8 +20,8 @@ let output = `
       ${chalk.yellow.bold('\\____/_/  |_\\____/_/ |_/_/  |_|___/   \\____/_/  |_/____/____/_/  |_/_____/')}
 
 
-∙ Lead Full Stack Developer at @affinioninternational
-∙ React and React Native Specialist
+∙ Lead Full Stack Developer at @cxloyalty
+∙ React, React Native and Flutter Specialist.
 
   https://${chalk.blue("twitter")}.com/${chalk.yellow("igauravity")}
               https://${chalk.yellow("gaurav.jassal")}.me
